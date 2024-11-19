@@ -1,0 +1,50 @@
+/*The colour family I choose is a monochromatic blue because I felt like blue is a calm and inviting color, 
+It also makes it easier to read and understand for kids in grades 1-3. It is a very inviting color and makes
+the topic of Treaties which might seem as a confusing topic, easier to read and understand. 
+Blue is also a color that is liked by all age groups and it is very effective for educational puposes. 
+The calm, soft colors of blue that I choose help the students stay focused without overwhelming them with too many, bright and contrasting colors. 
+I choose different tints and shades of blue which include: Dark navy blue(Primary colour) which I used for my main text and Headings, 
+light blue(Secondary colour) which I used for my buttons and interactive elements, baby blue(neutral) which I used for my background.  
+*/
+
+/* General styling for the body element */
+body{
+    background-color: #E6F0FA; /* Light blue background */
+    color: #1C3D5A; /* Dark navy text */
+    font-family: 'Comic Sans','Poppins', sans-serif;
+    margin: 0;
+    padding: 20px;
+    font-size: 18px 1.6rem;
+    line-height: 140%;
+}
+/* Styling for the main heading (h1) */
+h1{
+    text-align: center;
+    color: #1C3D5A;
+}
+/* Navigation bar styling */
+nav{
+    background-color: #A7C7E7;
+    color: #1C3D5A;
+    margin: 15px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+}
+/* Styling for iframe elements */
+iframe{
+    background-color: #D1E7F5;
+    display: block;
+    margin: 0 auto;
+    border: 7px solid #A7C7E7; 
+    border-radius: 10px;
+}
+/* Footer styling */
+footer {
+    background-color: #A7C7E7; 
+    color: #1C3D5A; 
+    text-align: center; 
+    padding: 10px; 
+    margin-top: 20px;
+}
